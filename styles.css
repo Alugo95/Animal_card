@@ -7,8 +7,9 @@
     
 
 }
-
+/*adding bold to the text*/
 .facts{font-style:italic;
+        font-weight: bold;
 }
 
 .heading{
