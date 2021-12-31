@@ -1,0 +1,51 @@
+.card{width: 320px;
+    flex-wrap: wrap;
+    padding:0px;
+    border: 1px solid gray;
+    padding:0px;
+    box-shadow: 5px 5px grey;
+    
+
+}
+
+.facts{font-style:italic;
+}
+
+.heading{
+        width: 200px;
+        height: 20px;
+        padding-left:10px;
+        padding-top: 0px;
+        padding-bottom: 0px;
+        text-align: left;
+        font-weight:bold;
+         font-size: 20pt;
+         font-family: monospace
+         
+        }
+
+img {
+     width: 300px;
+     padding:10px;
+     border-style:hidden;
+     border-width:10px;
+     border-color:blue;
+    }
+
+.des_container{ 
+    width: 300px; 
+    margin: 7px;
+    border: 1px solid gray;
+    padding-left: 3px;
+    padding-top:0px;
+
+}
+span{font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+li{
+    list-style:none;
+    }
+ul{padding:0;
+padding-left: 1;}
+   
